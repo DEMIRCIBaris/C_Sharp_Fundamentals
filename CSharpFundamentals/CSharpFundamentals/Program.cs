@@ -6,7 +6,8 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var number = 7;
+            var city = "Istanbul";
         }
     }
 }
