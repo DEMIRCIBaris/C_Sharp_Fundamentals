@@ -1,0 +1,13 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\bin\Debug\netcoreapp3.1\InterfaceAdvanced.exe
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\bin\Debug\netcoreapp3.1\InterfaceAdvanced.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\bin\Debug\netcoreapp3.1\InterfaceAdvanced.runtimeconfig.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\bin\Debug\netcoreapp3.1\InterfaceAdvanced.runtimeconfig.dev.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\bin\Debug\netcoreapp3.1\InterfaceAdvanced.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\bin\Debug\netcoreapp3.1\InterfaceAdvanced.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\InterfaceAdvanced\obj\Debug\netcoreapp3.1\InterfaceAdvanced.genruntimeconfig.cache

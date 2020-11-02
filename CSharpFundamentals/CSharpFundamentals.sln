@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{6B2CB954-5B12-4AB8-A96B-340E5C5C7BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{6B2CB954-5B12-4AB8-A96B-340E5C5C7BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAdvanced", "InterfaceAdvanced\InterfaceAdvanced.csproj", "{993F06BC-539F-46AB-BC2E-EB024EA50B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply_Interfaces", "Multiply_Interfaces\Multiply_Interfaces.csproj", "{01220A32-0A01-4C3B-AFA3-56B8884AD614}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6B2CB954-5B12-4AB8-A96B-340E5C5C7BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B2CB954-5B12-4AB8-A96B-340E5C5C7BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B2CB954-5B12-4AB8-A96B-340E5C5C7BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993F06BC-539F-46AB-BC2E-EB024EA50B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993F06BC-539F-46AB-BC2E-EB024EA50B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993F06BC-539F-46AB-BC2E-EB024EA50B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993F06BC-539F-46AB-BC2E-EB024EA50B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01220A32-0A01-4C3B-AFA3-56B8884AD614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01220A32-0A01-4C3B-AFA3-56B8884AD614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01220A32-0A01-4C3B-AFA3-56B8884AD614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01220A32-0A01-4C3B-AFA3-56B8884AD614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
