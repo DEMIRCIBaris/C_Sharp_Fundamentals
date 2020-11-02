@@ -6,7 +6,17 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var abstracts = new Database[2]
+            {
+                new SqlServer(),
+                new PostgreSql()
+            };
+
+            foreach (var item in abstracts)
+            {
+                item.Add();
+                item.Delete();
+            }
         }
     }
 }
