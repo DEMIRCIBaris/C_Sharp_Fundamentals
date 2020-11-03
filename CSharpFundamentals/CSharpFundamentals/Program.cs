@@ -6,7 +6,11 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var customer = new CustomerManager(50);
+            customer.List();
+
+            var customer2 = new CustomerManager();//Aşırı yüklenmiş yapıcı metot kullanıldı
+            customer2.List();
         }
     }
 }

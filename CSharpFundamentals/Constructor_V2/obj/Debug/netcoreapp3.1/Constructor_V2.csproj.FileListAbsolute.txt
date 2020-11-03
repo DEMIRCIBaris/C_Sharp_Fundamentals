@@ -1,0 +1,12 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\bin\Debug\netcoreapp3.1\Constructor_V2.exe
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\bin\Debug\netcoreapp3.1\Constructor_V2.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\bin\Debug\netcoreapp3.1\Constructor_V2.runtimeconfig.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\bin\Debug\netcoreapp3.1\Constructor_V2.runtimeconfig.dev.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\bin\Debug\netcoreapp3.1\Constructor_V2.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\bin\Debug\netcoreapp3.1\Constructor_V2.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\obj\Debug\netcoreapp3.1\Constructor_V2.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\obj\Debug\netcoreapp3.1\Constructor_V2.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\obj\Debug\netcoreapp3.1\Constructor_V2.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\obj\Debug\netcoreapp3.1\Constructor_V2.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\obj\Debug\netcoreapp3.1\Constructor_V2.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\Constructor_V2\obj\Debug\netcoreapp3.1\Constructor_V2.genruntimeconfig.cache
