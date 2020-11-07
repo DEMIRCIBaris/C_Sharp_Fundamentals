@@ -6,7 +6,8 @@ namespace Constructor_V3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var person = new PersonManager("Message");
+            person.Add();
         }
     }
 }
