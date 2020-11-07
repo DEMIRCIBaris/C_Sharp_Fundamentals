@@ -1,0 +1,12 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\bin\Debug\netcoreapp3.1\SpecialErrorHandling.exe
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\bin\Debug\netcoreapp3.1\SpecialErrorHandling.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\bin\Debug\netcoreapp3.1\SpecialErrorHandling.runtimeconfig.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\bin\Debug\netcoreapp3.1\SpecialErrorHandling.runtimeconfig.dev.json
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\bin\Debug\netcoreapp3.1\SpecialErrorHandling.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\bin\Debug\netcoreapp3.1\SpecialErrorHandling.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\obj\Debug\netcoreapp3.1\SpecialErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\obj\Debug\netcoreapp3.1\SpecialErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\obj\Debug\netcoreapp3.1\SpecialErrorHandling.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\obj\Debug\netcoreapp3.1\SpecialErrorHandling.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\obj\Debug\netcoreapp3.1\SpecialErrorHandling.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\C#Fund\CSharpFundamentals\SpecialErrorHandling\obj\Debug\netcoreapp3.1\SpecialErrorHandling.genruntimeconfig.cache
